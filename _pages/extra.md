@@ -10,7 +10,7 @@ author_profile: true
 - Sports Zealot
 
 Basketball(school team player), Badminton, Volleyball, Hiking, Cycling, Long-range runnning...
-<img src="https://jcyang.net/jcyang.github.io/images/basb.JPG" class="floatpic" width="330" height="230">
+<img src="https://jcyang.net/images/basb.JPG" class="floatpic" width="330" height="230">
 
 - Student activities
 
