@@ -14,11 +14,13 @@ I developed an algorithm called ANT that transforms the genome alignment results
 
 * Tested on 3381 mouse cell data, ANT showed an effciency in saving useful information such as the raw reads and the umis. Also, ANT is competitive in terms of speed at cell level.
 
-* <img src="/images/read.PNG" class="floatpic" align= "center" width="1221" height="937">
+<img src="/files/7.PNG" class="floatpic" align= "center" width="1221" height="937">
 
-* <img src="/images/umi.PNG" class="floatpic"  align = "center" width="1221" height="937"> 
+<img src="/files/8.PNG" class="floatpic"  align = "center" width="1221" height="937"> 
 
-* <img src="/images/time.PNG" class="floatpic" align = "center" width="1221" height="937"> 
+<img src="/files/9.PNG" class="floatpic" align = "center" width="1221" height="937"> 
+
+<img src="/files/10.PNG" class="floatpic" align = "center" width="1221" height="937"> 
 
 ### Computational prediction of arsenic binding proteins, March 2018 - July 2018
 
