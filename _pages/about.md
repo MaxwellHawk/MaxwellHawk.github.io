@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-About me
-======
+
 * I am an undergraduate student in the department of Bioinformatics and Biostatistics at Shanghai Jiao Tong University. 
 
 * My research advisors are Prof.Chaochun Wei (SJTU), Prof.Jingfang Wang (SJTU) and Prof. Wei Wang (UCLA).
