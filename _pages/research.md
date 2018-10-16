@@ -5,6 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 
+Publication
+--------------
+- Computational prediction and functional analysis of arsenic binding proteins in human cells, Quantitative Biology. Shichao Pang, <b>Junchen Yang</b>, Yilei Zhao, Yixue Li and Jingfang Wang (submitted)
+
 Research Experience
 --------------
 
@@ -20,16 +24,25 @@ I developed an algorithm called ANT that transforms the genome alignment results
 <img src="https://jcyang.net/jcyang.github.io/images/9.PNG" class="floatpic" align = "center" width="305" height="230"> 
 <img src="https://jcyang.net/jcyang.github.io/images/10.jpg" class="floatpic" align = "center" width="305" height="230"> 
 
-### Computational prediction of arsenic binding proteins, March 2018 - July 2018
+### Computational Prediction and Functional Analysis of Arsenic Binding Proteins in Human Cells, March 2018 - July 2018
 
-* I built a computational tool to predict arsenic binding proteins based on position-specific score matrix (PSSM) and single-mutation profiles. 
+* I built a computational tool to predict arsenic binding proteins based on position-specific score matrix (PSSM) and single-mutation profiles. The tool is freely available [here](http://47.254.78.183:8000/server/).
 
-* I Built a web server for the computational prediction and functional analysis of arsenic binding proteins in human cells. People can access to the server to find the motif. Corresponding work is currently summarized.
+* Our work was invited for an oral presentation at the 12th International Comference on Computational Systems Biology. The full manuscript has been submitted to *Quantitative Biology* for publication.
 
-- Web Development & Data Collection & Model Construction  , March 2017 - March 2018
+### Drug Combination Database and Predictive Model Construction Based on Drug and Target Information, March 2017 - March 2018
 
-Participated in the Shanghai Jiao Tong 15th College students’ innovative practice plan with project "Drug combination database and predictive model construction based on drug and target information" in 2017. I was in charge of the front end development of the database, collection of the data, and co-designed the predictive model. We successfully built the database and implemented the predictive model which showed a good predictive ability. The project received an A in the final presentation and I received an A+ in the presentation.
+#### Database Construction
+* Based on Django framework, I developed the front end of the database. The following is the framework of the database.
+<img src="https://jcyang.net/jcyang.github.io/images/11.jpg" class="floatpic" align= "center" width="305" height="230">
 
-### Publication
+#### Drug Combination Prediction 
+* The following shows the workflow of the prediction model
+<img src="https://jcyang.net/jcyang.github.io/images/12.png" class="floatpic" align= "center" width="305" height="230">
 
-- Computational prediction and functional analysis of arsenic binding proteins in human cells, Quantitative Biology. Shichao Pang, <b>Junchen Yang</b>, Yilei Zhao, Yixue Li and Jingfang Wang (submitted)
+* Results 
+<img src="https://jcyang.net/jcyang.github.io/images/13.jpg" class="floatpic" align= "center" width="305" height="230">
+
+* The project received an A (highest) in the 15th College Students’ Innovative Practice Plan in Shanghai Jiao Tong University and I received an A+ (highest).
+
+
