@@ -23,3 +23,5 @@ Past and ongoing related topics are:
 * Funtional element discovery in genomes, specifically, method development in alternative splicing prediction
 
 * Bioinformatics related online tools development
+
+<a href="https://clustrmaps.com/site/1aeo1"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=Zf22R72jY53CR_Ndbi-2ZeA1hCDeoQi8Z_vSr7WqQxA&cl=ffffff" /></a>
