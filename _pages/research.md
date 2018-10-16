@@ -24,7 +24,7 @@ I developed an algorithm called ANT that transforms the genome alignment results
 
 ### Computational prediction of arsenic binding proteins, March 2018 - July 2018
 
-* I performed some molecule dynamics simulations to estimate the arsenic binding protein free energy, and validate the  
+* I built a computational tool to predict arsenic binding proteins based on position-specific score matrix (PSSM) and single-mutation profiles. 
 
 * I Built a web server for the computational prediction and functional analysis of arsenic binding proteins in human cells. People can access to the server to find the motif. Corresponding work is currently summarized.
 
