@@ -20,7 +20,7 @@ I developed an algorithm called ANT that transforms the genome alignment results
 
 <img src="/files/9.PNG" class="floatpic" align = "center" width="1221" height="937"> 
 
-<img src="/files/10.PNG" class="floatpic" align = "center" width="1221" height="937"> 
+<img src="/files/10.jpg" class="floatpic" align = "center" width="1221" height="937"> 
 
 ### Computational prediction of arsenic binding proteins, March 2018 - July 2018
 
