@@ -35,6 +35,7 @@ I developed an algorithm called ANT that transforms the genome alignment results
 
 ### Database Construction
 * Based on Django framework, I developed the front end of the database, which links the drugs, drug combinations, and target information.
+
 <img src="https://jcyang.net/images/11.jpg" class="floatpic" align= "center" width="679" height="328">
 
 ### Drug Combination Prediction 
@@ -42,7 +43,7 @@ I developed an algorithm called ANT that transforms the genome alignment results
 <img src="https://jcyang.net/images/12.png" class="floatpic" align= "center" width="500" height="350">
 
 * AUC Results of different algorithms on test set.
-<img src="https://jcyang.net/images/13.png" class="floatpic" align= "center" width="700" height="500">
+<img src="https://jcyang.net/images/13.png" class="floatpic" align= "center" width="500" height="400">
 
 * The project received an A (highest) in the 15th Undergraduate Innovation Program in Shanghai Jiao Tong University and I received an A+ (highest).
 
