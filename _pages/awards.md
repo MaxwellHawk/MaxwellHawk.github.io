@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Awards"
+title: "Selected Awards"
 permalink: /awards/
 author_profile: true
 ---
