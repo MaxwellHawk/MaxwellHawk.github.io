@@ -34,16 +34,16 @@ I developed an algorithm called ANT that transforms the genome alignment results
 ## Drug Combination Database and Predictive Model Construction Based on Drug and Target Information, March 2017 - March 2018
 
 ### Database Construction
-* Based on Django framework, I developed the front end of the database. The following is the framework of the database.
+* Based on Django framework, I developed the front end of the database, which links the drugs, drug combinations, and target information.
 <img src="https://jcyang.net/images/11.jpg" class="floatpic" align= "center" width="679" height="328">
 
 ### Drug Combination Prediction 
-* The following shows the workflow of the prediction model
+* An ensemble machine learning model is used. The base classifiers are NB, SVM, adaBoost, Random Forest, and Gradient Boost. The meta classifier is XGBoost. The following shows the workflow of the prediction model.
 <img src="https://jcyang.net/images/12.png" class="floatpic" align= "center" width="500" height="350">
 
-* Results 
+* AUC Results of different algorithms on test set.
 <img src="https://jcyang.net/images/13.png" class="floatpic" align= "center" width="700" height="500">
 
-* The project received an A (highest) in the 15th College Students’ Innovative Practice Plan in Shanghai Jiao Tong University and I received an A+ (highest).
+* The project received an A (highest) in the 15th Undergraduate Innovation Program in Shanghai Jiao Tong University and I received an A+ (highest).
 
 
