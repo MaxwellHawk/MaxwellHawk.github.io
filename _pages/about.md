@@ -22,7 +22,7 @@ Past and ongoing related topics are:
 
 * Funtional element discovery in genomes, specifically, method development in alternative splicing prediction
 
-* Bioinformatics related online tools development
+* Bioinformatics related web tools development
 
 * Drug combination prediction using machine learning methods
 
