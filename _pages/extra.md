@@ -9,13 +9,13 @@ author_profile: true
 
 - Sports Zealot
 
-Basketball(school team player), Badminton, Volleyball, Hiking, Cycling, Long-range runnning...
+Long-range runnning(3 times in Campus marathon match), Badminton, Ping-Pong, Swimming and so on.
 <img src="https://jcyang.net/images/basb.JPG" class="floatpic" width="330" height="230">
 
-- Student activities
+- Student Activities
 
-As vice president of the student union of School of Life Science and Biotechnology during 2016 and 2017. I have planned and organized various activities like Adelaide foreign students party, Christmas party in my school, Debate Competition that covered several universities, Microworld Creative Design and Art Competition that covered 10 universities in East China, and so on.
+As minster of propaganda department of School of Environmental Engineering during 2016 and 2017. I have organized and paticipated in various activities like Christmas party, Environment festival and made up to 20 videos and 10+ posters.
 
-- Movie Superfans
+- Gaming Superfan
 
-Only god can count how many movies I've watched in these years...
+Motivated by multiple video games in my life, I get a passion and various crazy thoughts for gaming field.
