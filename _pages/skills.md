@@ -7,8 +7,9 @@ author_profile: true
 
 Computer Languages
 ----------------
-Python, C++, R, HTML, CSS, JavaScript
+Python, C++, C, Verilog
 
 Additional
 ----------------
-BASH, Django framework, LATEX 
+Adore PS/PR/AE
+Unity
