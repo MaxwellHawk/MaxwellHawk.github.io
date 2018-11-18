@@ -11,5 +11,4 @@ Python, C++, C, Verilog
 
 Additional
 ----------------
-Adore PS/PR/AE
-Unity
+Adore PS/PR/AE, Unity
