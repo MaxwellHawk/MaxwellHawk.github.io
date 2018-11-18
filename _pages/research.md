@@ -7,13 +7,12 @@ author_profile: true
 
 Publication
 --------------
-- Computational prediction and functional analysis of arsenic binding proteins in human cells, Quantitative Biology. Shichao Pang, <b>Junchen Yang</b>, Yilei Zhao, Yixue Li and Jingfang Wang (under review)
-- Yi Xiong, Qiankun Wang, <b>Junchen Yang</b>, Xiaolei Zhu, Dong-Qing Wei. PredT4SE-Stack: Prediction of Bacterial Type IV Secreted Effectors From Protein Sequences Using a Stacked Ensemble Method. Frontiers in Microbiology.
+- Enhancement of nitrogen removal via addition of cattail litter in surface flow constructed wetland, Science of the Total Environment. Suqing Wu, Lei Gao, Jianya Gu, Weili Zhou, Chunzhen Fan, Jungchen  Huang, Xu Zhang, Yifan  Cheng, Ziwei  Wu, Ziyu  Wang
 
-Research Experience
+Research/Project Experience
 --------------
 
-## Algorithm Development in Single-cell RNA-seq quantification, July 2018 - Current, UCLA
+## Constrained Stress Model in Unified Framework, Augest 2018 - Augest 2018, ZJU
 
 I developed an algorithm called ANT that transforms the genome alignment results to build TCC-matrix (transcript compatibility counts matrix, an expression quantification matrix). 
 * The algorithm's workflow, codes and more details can be found [here](https://github.com/KevinBastianYang/ANT).
@@ -25,7 +24,7 @@ I developed an algorithm called ANT that transforms the genome alignment results
 <img src="https://jcyang.net/images/9.PNG" class="floatpic" align = "center" width="305" height="230"> 
 <img src="https://jcyang.net/images/10.jpg" class="floatpic" align = "center" width="305" height="230"> 
 
-## Computational Prediction and Functional Analysis of Arsenic Binding Proteins in Human Cells, March 2018 - July 2018
+## Mentor Recommendation System based on data mining, March 2018 - July 2018
 
 * I built a computational tool called Arsenic Finder to predict arsenic binding proteins based on position-specific score matrix (PSSM) transformed by single-mutation free energy profile. The tool is freely available [here](http://47.254.78.183:8000/server/). The development is based on Django + Nginx + uWSGI.
 
