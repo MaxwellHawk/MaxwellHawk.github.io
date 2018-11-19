@@ -15,8 +15,9 @@ Research/Project Experience
 ## Constrained Stress Model in Unified Framework, Augest 2018 - Augest 2018, ZJU
 
 I developed an algorithm called ANT that transforms the genome alignment results to build TCC-matrix (transcript compatibility counts matrix, an expression quantification matrix). 
-* The algorithm's workflow, codes and more details can be found [here](https://github.com/KevinBastianYang/ANT).
+* Code and more details can be found [here](https://github.com/KevinBastianYang/ANT).
 * Tested on 3381 mouse cell data, ANT showed an effciency in saving useful information such as the raw reads and the umis. Also, ANT is competitive in terms of speed at cell level.
+* The revisited stress model can incooperate with various user constraints, of which some i accomplish such as the direct constraints, the metrics-based constraints and shape-based constraints.
 
 <img src="https://jcyang.net/images/7.PNG" class="floatpic" align= "center" width="305" height="230">
 <img src="https://jcyang.net/images/8.PNG" class="floatpic"  align = "center" width="305" height="230"> 
@@ -24,7 +25,7 @@ I developed an algorithm called ANT that transforms the genome alignment results
 <img src="https://jcyang.net/images/9.PNG" class="floatpic" align = "center" width="305" height="230"> 
 <img src="https://jcyang.net/images/10.jpg" class="floatpic" align = "center" width="305" height="230"> 
 
-## Mentor Recommendation System based on data mining, March 2018 - July 2018
+## Mentor Recommendation System based on data mining, March 2018 - July 2018, SJTU
 
 * I built a computational tool called Arsenic Finder to predict arsenic binding proteins based on position-specific score matrix (PSSM) transformed by single-mutation free energy profile. The tool is freely available [here](http://47.254.78.183:8000/server/). The development is based on Django + Nginx + uWSGI.
 
